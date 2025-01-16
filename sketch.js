@@ -1,5 +1,5 @@
 let sounds_dic = ['KO.mp3','sound1.wav', 'sound2.wav', 'sound3.wav','ubmp.wav','lolamoore.mp3','miguelOhara.mp3',
-    'WaitaMinute.mp3', 'rightNow.mp3'
+    'WaitaMinute.mp3', 'rightNow.mp3','Bonfire.mp3'
 ];
 let sounds = [];
 let sound;
