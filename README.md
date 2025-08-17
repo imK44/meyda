@@ -1,6 +1,7 @@
 # Meyda Audio Visualization Demo
 
 This project is a browser-based audio visualization built with [p5.js](https://p5js.org) and [Meyda](https://meyda.js.org/). It extracts audio features in real time and renders interactive graphics that respond to the music. Optional speech recognition lets you control playback and visuals with your voice.
+### deployed link - https://meyda.vercel.app/
 
 ## Features
 - Plays bundled demo sounds and visualizes them using p5.js
