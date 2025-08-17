@@ -19,3 +19,8 @@ This project is a browser-based audio visualization built with [p5.js](https://p
 - Select a track from the dropdown menu and use the buttons to play, pause, or stop.
 - Watch the visualization react to audio features.
 - Enable speech controls with the **speech On/Off** button.
+
+## Screenshots
+
+![Screenshot](screenshots/ss01.png)
+![Screenshot](screenshots/ss02.png)
