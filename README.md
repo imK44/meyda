@@ -22,5 +22,6 @@ This project is a browser-based audio visualization built with [p5.js](https://p
 
 ## Screenshots
 
+<img src="screenshots/ss01.png" width="600"/>
 ![Screenshot](screenshots/ss01_rs.png)
 ![Screenshot](screenshots/ss02.png)
