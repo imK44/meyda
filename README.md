@@ -21,7 +21,8 @@ This project is a browser-based audio visualization built with [p5.js](https://p
 - Watch the visualization react to audio features.
 - Enable speech controls with the **speech On/Off** button.
 
-## Screenshots
+## App Demo
 
+![App in action](screenshots/demo.gif)
 <img src="screenshots/ss01.png" width="600"/>
 <img src="screenshots/ss02.png">
